@@ -2,6 +2,7 @@
 This training script is adapted from the original nanoGPT train.py to reimplement certain key functions.
 
 [changed in colab]
+[changed again]
 
 This training script can be run both on a single gpu in debug mode,
 and also in a larger training run with distributed data parallel (ddp).
